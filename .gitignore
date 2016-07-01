@@ -1,0 +1,4 @@
+bin/Debug/gpx2db.exe
+gpx2db.layout
+obj/Debug/main.o
+obj/Debug/nanodbc.o

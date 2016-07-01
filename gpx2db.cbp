@@ -30,9 +30,19 @@
 		</Build>
 		<Compiler>
 			<Add option="-Wall" />
+			<Add option="-std=c++14" />
+			<Add option="-m32" />
 			<Add option="-fexceptions" />
+			<Add option="-static" />
 		</Compiler>
+		<Linker>
+			<Add option="-m32" />
+			<Add option="-static" />
+			<Add option="-lodbc32" />
+		</Linker>
 		<Unit filename="main.cpp" />
+		<Unit filename="nanodbc.cpp" />
+		<Unit filename="nanodbc.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
