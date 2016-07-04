@@ -2,3 +2,7 @@ bin/Debug/gpx2db.exe
 gpx2db.layout
 obj/Debug/main.o
 obj/Debug/nanodbc.o
+bin/Release/gpx2db.exe
+obj/Release/main.o
+obj/Release/nanodbc.o
+gpx2db.depend

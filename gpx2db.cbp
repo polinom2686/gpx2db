@@ -11,6 +11,7 @@
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
+				<Option parameters="2016-07-02_18-06-05.gpx 1 1 1" />
 				<Compiler>
 					<Add option="-g" />
 				</Compiler>
