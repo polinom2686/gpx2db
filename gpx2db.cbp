@@ -42,7 +42,7 @@
 			<Add option="-static" />
 			<Add option="-lodbc32" />
 		</Linker>
-		<Unit filename="main.cpp" />
+		<Unit filename="gpx2db.cpp" />
 		<Unit filename="nanodbc.cpp" />
 		<Unit filename="nanodbc.h" />
 		<Extensions>
